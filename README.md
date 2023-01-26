@@ -25,6 +25,7 @@ for line in f:
     word=line.split(" ")
     wc=wc+len(word)
 print("word count is:",wc)
+f.close()
 ```
 
 ### OUTPUT:
