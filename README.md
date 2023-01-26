@@ -19,6 +19,10 @@ add the length of the list to the count for each line
 print the count
 ## PROGRAM:
 ```
+write a program for getting the word count from a text.
+Developed by: R. Joyce Beulah
+RegisterNumber: 22009334
+
 f=open("sample1.txt","r")
 wc=0
 for line in f:
